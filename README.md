@@ -70,5 +70,6 @@ A documentação interativa da API está disponível em `/swagger` quando rodand
 
 ---
 
-> Projeto Referente ao Teste Técnico da Empresa UpFlux. 
+> Projeto Referente ao Teste Técnico da Empresa UpFlux.
+
 > Desenvolvido por João Pedro Fachini Moreira Silva.
