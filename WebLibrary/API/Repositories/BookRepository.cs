@@ -9,7 +9,6 @@ namespace WebLibrary.API.Repositories
     public class BookRepository : IBookRepository
     {
         private readonly IMongoCollection<ABook> _books;
-
         public BookRepository(IOptions<MongoDbSettings> settings)
         {
             var client = new MongoClient(settings.Value.ConnectionString);
