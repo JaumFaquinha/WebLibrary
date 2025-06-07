@@ -40,3 +40,4 @@ C:\My Projects\.Net\Actual\WebLibrary\WebLibrary\bin\Debug\net9.0\xunit.abstract
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary\bin\Debug\net9.0\xunit.assert.dll
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary\bin\Debug\net9.0\xunit.core.dll
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\My Projects\.Net\Actual\WebLibrary\WebLibrary\obj\Debug\net9.0\WebLibrary.sourcelink.json

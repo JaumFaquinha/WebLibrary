@@ -118,3 +118,4 @@ C:\My Projects\.Net\Actual\WebLibrary\WebLibrary.Test\obj\Debug\net9.0\refint\We
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary.Test\obj\Debug\net9.0\WebLibrary.Test.pdb
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary.Test\obj\Debug\net9.0\WebLibrary.Test.genruntimeconfig.cache
 C:\My Projects\.Net\Actual\WebLibrary\WebLibrary.Test\obj\Debug\net9.0\ref\WebLibrary.Test.dll
+C:\My Projects\.Net\Actual\WebLibrary\WebLibrary.Test\obj\Debug\net9.0\WebLibrary.Test.sourcelink.json
